@@ -4,6 +4,8 @@
 
 A business intelligence dashboard built in Power BI to analyze Blinkit's retail sales data across different outlet types, item categories, and time ranges. The dashboard uncovers insights around sales performance, customer ratings, and inventory metrics to support strategic retail decision-making.
 
+Live Demo: https://app.powerbi.com/groups/me/reports/c39ba844-4a8f-4767-8c98-a9841818babe/c7ec7c08851900580536?experience=power-bi
+
 🧰 Tech Stack:
 
 Power BI – Data visualization and reporting
